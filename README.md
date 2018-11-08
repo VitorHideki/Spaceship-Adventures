@@ -27,3 +27,7 @@ Execute o jogo
     python game.py
 
    
+
+#Grupo Team12
+
+Vitor Hideki - https://github.com/VitorHideki/
